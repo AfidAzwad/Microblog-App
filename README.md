@@ -1,5 +1,11 @@
-creating folder command : virtualenv venv
-install packages : pip install -r requirements.txt
-activating virtualenv in PS or CMD : .\venv\Scripts\activate
-activate .env file in Git Bash : source .env
-run server : py manage.py runserver
+
+
+                        creating folder command : virtualenv venv
+                            
+                        install packages : pip install -r requirements.txt
+                        
+                        activating virtualenv in PS or CMD : .\venv\Scripts\activate
+                        
+                        activate .env file in Git Bash : source .env
+                        
+                        run server : py manage.py runserver
